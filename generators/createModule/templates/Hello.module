@@ -1,0 +1,7 @@
+module {{package}}
+
+interface {{name}} {
+    string sayHello(string to)
+}
+
+{{name}} create{{name}}()
